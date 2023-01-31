@@ -1,0 +1,14 @@
+{
+  "resourceName": "s37c5c0d17",
+  "policyUUID": "7c5c0d17",
+  "bucketName": "projettestdynamodba8152dff27ca46fd8d783ae077957",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

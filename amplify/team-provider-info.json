@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-projettestdynamodb-dev-162409-authRole",
+      "UnauthRoleArn": "arn:aws:iam::525468443880:role/amplify-projettestdynamodb-dev-162409-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::525468443880:role/amplify-projettestdynamodb-dev-162409-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-projettestdynamodb-dev-162409-deployment",
+      "UnauthRoleName": "amplify-projettestdynamodb-dev-162409-unauthRole",
+      "StackName": "amplify-projettestdynamodb-dev-162409",
+      "StackId": "arn:aws:cloudformation:eu-west-3:525468443880:stack/amplify-projettestdynamodb-dev-162409/4fc17040-a17b-11ed-b7ae-0e6438852732",
+      "AmplifyAppId": "d3kqjezfvg09a6"
+    },
+    "categories": {
+      "auth": {
+        "projettestdynamodb924c5cfe": {}
+      },
+      "api": {
+        "projettestdynamodb": {}
+      },
+      "storage": {
+        "s37c5c0d17": {}
+      }
+    }
+  }
+}
